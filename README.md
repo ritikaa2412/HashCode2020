@@ -1,2 +1,2 @@
-# HashMap
-Hashmap 2020 Problem and Solution
+# HashCode
+HashCode2020 Problem and Solution
